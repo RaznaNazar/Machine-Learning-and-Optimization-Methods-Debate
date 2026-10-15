@@ -1,0 +1,20 @@
+
+## Research Papers
+
+**Debate Topic:** Gradient Clipping Improves Training Stability
+
+1. [Mai & Johansson (2021) - Stability and Convergence of Stochastic Gradient Clipping](https://proceedings.mlr.press/v139/mai21a.html)
+
+2. [Wang et al. (2026) - AdaGC](https://proceedings.mlr.press/v306/wang26dg.html)
+
+3. [Ramaswamy (2023) - Gradient Clipping in Deep Learning](https://www.scitepress.org/Papers/2023/116780/116780.pdf)
+
+4. [Huang et al. (2025) - SPAM](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7a70ad3d9c704fb9b81b5c69eda722dc-Abstract-Conference.html)
+
+5. [Chezhegov et al. (2025) - Clipping Improves Adam-Norm and AdaGrad-Norm](https://proceedings.mlr.press/v267/chezhegov25a.html)
+
+6. [Li et al. (2026) - AGGC](https://aclanthology.org/2026.findings-acl.339/)
+
+7. [Tu et al. (2025) - NadamClip](https://www.mdpi.com/2227-9717/13/7/2145)
+
+8. [Kumar et al. (2025) - ZClip](https://arxiv.org/abs/2504.02507)
